@@ -11,7 +11,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m am a Front End Web Developer.
+- 🔭 I’m am a Front End Web Developer (HTML5, CSS3, Sass, tailwindcss, javascript, react, redux, next.js, ...).
 
 - 🌱 I’m learning Backend Development (Nodejs, Express, Mangodb).
 
