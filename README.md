@@ -11,7 +11,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m am a Full Stack Web Developer with 5+ years of experience developing web applications using different technologies (HTML5, CSS3, Sass, tailwindcss, javascript, react, redux, next.js, Nodejs, Express, Mangodb, Mysql, Firebase...).
+- 🔭 I’m am a Full Stack Web Developer with 5+ years of experience developing web applications using different technologies (HTML5, CSS3, Sass, tailwindcss, javascript, react, redux, next.js, Nodejs, Express, Mongodb, Mysql, Firebase...).
 
 - 🌱 I’m currently working as a freelancer on Upwork.
 
