@@ -17,7 +17,7 @@
 
 - 👯 I have built multiple amazing projects that you can find here.
 
-- 💬 Contact me if you need any services regarding Web development (contact info bellow)
+- 💬 Contact me if you need any services regarding Full Stack Web development
   
 <h2> Skills</h2>
 
