@@ -11,17 +11,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m am a Frontend Web Developer with 4+ years of experience developing web applications using different technologies (HTML5, CSS3, Sass, tailwindcss, javascript, react, redux, next.js, Firebase...).
-
-- 🌱 I’m currently working as a freelancer on Upwork.
+- 🔭 I’m am a Full Stack Web Developer with 4+ years of experience developing web applications using different technologies (ReactJS, Angular,NestJS, NextJS, ExpressJS, NodeJS, MongoDB, PostgreSQL, Redux/ReduxToolkit, React Native, Docker).
 
 - 👯 I have built multiple amazing projects that you can find here.
 
 - 💬 Contact me if you need any services regarding Full Stack Web development
   
-<h2> Skills</h2>
-
-<img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"/>  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"/>  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"/>  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg"/> Tailwindcss  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"/> Reactjs   <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg"/>  Redux   <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg"/>  Nextjs   <!-- <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg"/>  Nodejs  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg"/>  Express  Mangodb  Mysql -->
-
 <h2> Connect with me via Email <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 mellitifiras@protonmail.com
