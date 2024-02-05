@@ -13,8 +13,6 @@
 
 - 🔭 I’m am a Full Stack Web Developer with 4+ years of experience developing web applications using different technologies (ReactJS, Angular,NestJS, NextJS, ExpressJS, NodeJS, MongoDB, PostgreSQL, Redux/ReduxToolkit, React Native, Docker).
 
-- 👯 I have built multiple amazing projects that you can find here.
-
 - 💬 Contact me if you need any services regarding Full Stack Web development
   
 <h2> Connect with me via Email <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
