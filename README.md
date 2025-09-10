@@ -7,7 +7,7 @@
 ---
 
 ### About Me
-- Full-stack engineer (4+ years) focused on **multi-tenant SaaS**, **healthtech**, and **payments**.  
+- Full-stack engineer (6+ years) focused on **multi-tenant SaaS**, **healthtech**, and **payments**.  
 - I build scalable systems with **NestJS, React, Prisma, PostgreSQL**, and **Docker on GCP (Cloud Run + VPC)**.  
 - **Upwork Top Rated Plus (Top 3%)**. I care about results, reliability, and clean architecture.
 
